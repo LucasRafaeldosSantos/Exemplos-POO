@@ -1,0 +1,15 @@
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Apps\.NET\DigitalInnovationOne\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
